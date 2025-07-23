@@ -52,7 +52,7 @@ Edit
 ### 📥 How to Clone This Repository
 
 ```bash
-git clone https://github.com/yourusername/college-trip-form.git
+git clone https://github.com/Abhiverma2004/college-trip-form.git
 cd college-trip-form
 Replace yourusername with your actual GitHub username.
 
